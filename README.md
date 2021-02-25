@@ -1,24 +1,6 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A ideia principal do app é praticar programação em Ruby on Rails e JavaScript, com um projeto real, com deploy em server de produção.
 
-Things you may want to cover:
+O app é um xadrez, com função de cadastro e possibilidade de jogar com algum amigo via link de convite
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
